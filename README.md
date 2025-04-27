@@ -1,6 +1,6 @@
 # Summary
 
-This repository contains a Containerized Music Service, a containerized locally runnable and easily deployable service that consists of an API service and a database service, both containerized and orchestrated with Kubernetes. This sample service is seeded with Spotify music data, allowing you to query millions of tracks, artists and albums. I made this project to try out new tech like Prisma ORM and to improve my skills with Kubernetes and Docker.
+This repository contains a containerized service that consists of an API server and a database server, containerized and orchestrated with Kubernetes. This sample service is seeded with Spotify music data, allowing you to query millions of tracks, artists and albums. I made this project to try out new tech like Prisma ORM and to improve my skills with Kubernetes and Docker.
 
 ## Technologies used
 
